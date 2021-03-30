@@ -1,7 +1,7 @@
-[![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)](https://youtu.be/Pk_TthHfLeE)
+[![Zero](https://telegra.ph/file/40c37da0c20952578581a.jpg)](https://youtu.be/Pk_TthHfLeE)
 
-# Slam Mirror Bot
-This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
+# Zero Mirror Bot
+Just a Fork Repo. This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
 ## Features supported:
 <details>
@@ -212,6 +212,7 @@ where host is the name of extractor (eg. youtube, twitch). Multiple accounts of 
 ## Credits
 
 Thanks to:
+- [Slam Mirror Bot](https://github.com/breakdowns/slam-mirrorbot)
 - [out386](https://github.com/out386) heavily inspired from telegram bot which is written in JS
 - [Izzy12](https://github.com/lzzy12/) for original repo
 - [Dank-del](https://github.com/Dank-del/) for base repo
