@@ -10,7 +10,8 @@ RUN apt-get -qq update && \
     apt-get -qq update && \
     apt-get -qq install -y p7zip-full p7zip-rar aria2 curl pv jq ffmpeg locales python3-lxml && \
     apt-get purge -y software-properties-common && \
-    apt-get update --allow-releaseinfo-change
+    apt-get --allow-releaseinfo-change update && \
+    apt-get dist-upgrade
 
 COPY requirements.txt .
 COPY extract /usr/local/bin
