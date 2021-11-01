@@ -10,7 +10,7 @@ aria2p==0.10.4
 python-dotenv==0.19.1
 tenacity==8.0.1
 python-magic
-beautifulsoup4==4.8.2
+beautifulsoup4==4.10.0
 pyrogram
 TgCrypto
 youtube_dl
