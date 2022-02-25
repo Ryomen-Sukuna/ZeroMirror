@@ -1,7 +1,7 @@
 requests
 psutil
 bs4
-Pillow==9.0.0
+Pillow==9.0.1
 python-telegram-bot==13.11 
 google-api-python-client==2.38.0
 google-auth-httplib2==0.1.0
